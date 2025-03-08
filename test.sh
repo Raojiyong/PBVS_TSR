@@ -1,0 +1,1 @@
+python drct/test.py -opt options/test/test_DRCT-L_SRx8_finetune_from_merged.yml
