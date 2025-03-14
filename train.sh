@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch --nproc_per_node=2 --master_port=29521 drct/train.py -opt options/train/train_coslr_multiloss_multiscale_DRCT-L_SRx8_finetune_from_merged.yml --launcher pytorch
