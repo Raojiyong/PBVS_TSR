@@ -8,7 +8,7 @@
 ### Installation
 
 ```
-git clone https://github.com/Raojiyong/ThermalSR.git
+git clone https://github.com/Raojiyong/PBVS_TSR.git
 conda create --name py38 python=3.8 -y
 conda activate py38
 # CUDA 11.6
